@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35825.156 d17.13
+VisualStudioVersion = 17.13.35825.156
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab05Lib", "Lab05Lib.csproj", "{29F6BB6D-6084-4DBC-B3F9-DC02F2836DCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab05App", "..\Lab05App\Lab05App.csproj", "{C095C80F-CB5D-4AF2-8355-56A86B4DB173}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{29F6BB6D-6084-4DBC-B3F9-DC02F2836DCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29F6BB6D-6084-4DBC-B3F9-DC02F2836DCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29F6BB6D-6084-4DBC-B3F9-DC02F2836DCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C095C80F-CB5D-4AF2-8355-56A86B4DB173}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C095C80F-CB5D-4AF2-8355-56A86B4DB173}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C095C80F-CB5D-4AF2-8355-56A86B4DB173}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C095C80F-CB5D-4AF2-8355-56A86B4DB173}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
